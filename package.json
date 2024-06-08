@@ -1,17 +1,17 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
-  "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "displayName": "Climate Sensor",
+  "name": "homebridge-temperature-sensor-plugin",
+  "version": "0.0.1",
+  "description": "Makes a web request to a Raspberry Pi based temperature sensor.",
   "license": "Apache-2.0",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git+https://github.com/tukanuk/homebridge-temperature-sensor-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/tukanuk/homebridge-temperature-sensor-plugin/issues"
   },
   "engines": {
     "node": "^18.17.0 || ^20.9.0",
